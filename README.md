@@ -1,4 +1,4 @@
-# merge-all-the-things
+# merge-all-the-awesome-things
 
 Want your free shirt from Hacktoberfest? Real projects are too hard to contribute? Stop spamming real projects and _contribute_ to this project, we accept all contributions<sup>1</sup>, yes, send us a random file, photos, etc, you may see the issues list to get some inspiration.
 
@@ -13,6 +13,7 @@ Want your free shirt from Hacktoberfest? Real projects are too hard to contribut
 7. @eriksape
 9. @deprecated
 10. @AyrtonCossuol
+11. @mayank@25402
 
 ## FAQ
 - Q: How many contributions can I make? A: Unlimited contributions.
